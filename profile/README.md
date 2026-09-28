@@ -1,7 +1,9 @@
-# MBA × Hedge Fund
+<img src="organization-avatar.png" alt="PRIME Q — znak Q" width="120" height="120">
 
-Jesteśmy czteroosobowym zespołem realizującym projekt doradczy MBA na Akademii Koźmińskiego.
-Oceniamy zasadność i możliwe modele uruchomienia **systematic/quant asset managera w Polsce**, z hubem w Warszawie.
+# PRIME Q
+
+PRIME Q to projekt firmy zarządzającej kapitałem w Polsce według reguł inwestycyjnych opartych na danych, z planowaną siedzibą w Warszawie.
+Jako czteroosobowy zespół realizujemy projekt doradczy MBA w Akademii Leona Koźmińskiego i oceniamy zasadność uruchomienia takiej działalności oraz możliwe modele jej prowadzenia.
 
 Nie zakładamy z góry uruchomienia biznesu ani przewagi strategii inwestycyjnej — rekomendacja ma wynikać z analiz.
 
@@ -13,7 +15,10 @@ Nie zakładamy z góry uruchomienia biznesu ani przewagi strategii inwestycyjnej
 
 ## Materiały zespołu
 
-[projekt-doradczy](https://github.com/mba-x-hedge-fund/projekt-doradczy) — główne repozytorium pracy, badań, źródeł i modeli.
-Repozytorium jest prywatne; dostęp wymaga nadanych uprawnień.
+- [projekt-doradczy](https://github.com/mba-x-hedge-fund/projekt-doradczy) — praca doradcza, badania, źródła i modele.
+- [strona-primeq](https://github.com/mba-x-hedge-fund/strona-primeq) — strona projektu, ankieta dla inwestorów i źródłowe materiały identyfikacji wizualnej PRIME Q.
 
-*Projekt ma charakter akademicki i nie stanowi oferty inwestycyjnej.*
+Oba repozytoria są prywatne; dostęp wymaga nadanych uprawnień.
+Publiczna strona projektu: [primeq.pl](https://primeq.pl).
+
+*Projekt ma charakter akademicki; nie jest działającym funduszem ani ofertą inwestycyjną.*
