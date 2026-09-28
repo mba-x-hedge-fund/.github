@@ -19,11 +19,4 @@ Nie zakładamy z góry uruchomienia biznesu ani przewagi strategii inwestycyjnej
 - Wykonalność inwestycyjna i uwarunkowania regulacyjne.
 - Model operacyjny, pozyskanie kapitału i ekonomika przedsięwzięcia.
 
-## Materiały zespołu
-
-- [projekt-doradczy](https://github.com/mba-x-hedge-fund/projekt-doradczy) — praca doradcza, badania, źródła i modele.
-- [strona-primeq](https://github.com/mba-x-hedge-fund/strona-primeq) — strona projektu, ankieta dla inwestorów i źródłowe materiały identyfikacji wizualnej PRIME Q.
-
-Oba repozytoria są prywatne; dostęp wymaga nadanych uprawnień.
-
 *Projekt ma charakter akademicki; nie jest działającym funduszem ani ofertą inwestycyjną.*
