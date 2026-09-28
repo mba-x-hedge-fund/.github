@@ -1,11 +1,13 @@
-<img src="organization-avatar.png" alt="PRIME Q — znak Q" width="120" height="120">
-
 # PRIME Q
+
+<img align="right" src="organization-avatar.png" alt="PRIME Q — znak Q" width="160" height="160">
 
 PRIME Q to projekt firmy zarządzającej kapitałem w Polsce według reguł inwestycyjnych opartych na danych, z planowaną siedzibą w Warszawie.
 Jako czteroosobowy zespół realizujemy projekt doradczy MBA w Akademii Leona Koźmińskiego i oceniamy zasadność uruchomienia takiej działalności oraz możliwe modele jej prowadzenia.
 
 Nie zakładamy z góry uruchomienia biznesu ani przewagi strategii inwestycyjnej — rekomendacja ma wynikać z analiz.
+
+<br clear="right">
 
 ## Zakres projektu
 
