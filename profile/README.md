@@ -5,7 +5,7 @@
     <img src="prime-q-wordmark.svg" alt="PRIME Q" width="50%">
   </picture>
 
-[Strona projektu — primeq.pl](https://primeq.pl)
+[www.primeq.pl](https://primeq.pl)
 </div>
 
 PRIME Q to projekt firmy zarządzającej kapitałem w Polsce według reguł inwestycyjnych opartych na danych, z planowaną siedzibą w Warszawie.
